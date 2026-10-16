@@ -1,4 +1,4 @@
-# Online-Fashion-Website
+# Online Fashion Website
 
 About the Project
 
